@@ -19,7 +19,7 @@ pip install requests beautifulsoup4 pandas
 ```
 2 - Executando o Script
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GabrielMorais77o/Projetos-em-Python.git
 
 ```
 3- Execute o script Python:
